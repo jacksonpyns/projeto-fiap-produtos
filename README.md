@@ -58,7 +58,7 @@ Ou execute a classe `Main.java` pela IDE.
 
 Menu principal do sistema:
 
-*(adicione screenshot do projeto aqui)*
+<img width="398" height="275" alt="projeto-fiap-cadastro-de-produtos" src="https://github.com/user-attachments/assets/a057432b-5664-4ff8-a3c3-9b063a77cd56" />
 
 ## Objetivo
 
